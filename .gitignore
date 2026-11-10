@@ -8,3 +8,5 @@ qa/shots/
 !.env.example
 .DS_Store
 *.log
+.vault/
+.omo/
