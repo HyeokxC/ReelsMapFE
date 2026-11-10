@@ -1,0 +1,488 @@
+{
+  "startedAt": "2026-11-10T17:31:51.152Z",
+  "routes": [
+    "/inbox",
+    "/inbox/1",
+    "/inbox/2",
+    "/inbox/3",
+    "/inbox/4",
+    "/inbox/5",
+    "/places",
+    "/lists",
+    "/settings",
+    "/start"
+  ],
+  "captures": [
+    {
+      "name": "inbox",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-1",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-1-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-2",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-2-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": []
+    },
+    {
+      "name": "inbox-3",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-3-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": []
+    },
+    {
+      "name": "inbox-4",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-4-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": []
+    },
+    {
+      "name": "inbox-5",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-5-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": []
+    },
+    {
+      "name": "places",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/places-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "lists",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/lists-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "settings",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/settings-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "start",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/start-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": []
+    },
+    {
+      "name": "deletion-alert",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/deletion-alert-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "edited-place-saved",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 2
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/edited-place-saved-1440.png",
+      "overflow": false,
+      "lens": true,
+      "width": 1440,
+      "scrollers": []
+    },
+    {
+      "name": "inbox",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-1",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-1-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-2",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-2-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-3",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-3-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-4",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-4-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "inbox-5",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/inbox-5-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": []
+    },
+    {
+      "name": "places",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/places-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "lists",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/lists-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "settings",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/settings-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "start",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/start-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "deletion-alert",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/deletion-alert-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    },
+    {
+      "name": "edited-place-saved",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 3
+      },
+      "path": "/Users/hyeokx/Projects/ReelsMap/web/qa/shots/edited-place-saved-390.png",
+      "overflow": false,
+      "lens": true,
+      "width": 390,
+      "scrollers": [
+        "div.scroll"
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "viewport": 1440,
+      "behavior": "default route redirect",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "expand post",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "category filter, checkboxes and save places",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "deletion alert focus and confirmation",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "toggle sync",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "choose Lisbon candidate",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "category and destination edits preserve saved state",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "add tag and filter map pins",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "client search",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "settings persistence and tab navigation",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "clipboard code",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "behavior": "reduced transparency fallback",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "default route redirect",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "expand post",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "category filter, checkboxes and save places",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "deletion alert focus and confirmation",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "toggle sync",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "choose Lisbon candidate",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "category and destination edits preserve saved state",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "add tag and filter map pins",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "client search",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "settings persistence and tab navigation",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "clipboard code",
+      "passed": true
+    },
+    {
+      "viewport": 390,
+      "behavior": "reduced transparency fallback",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "finishedAt": "2026-11-10T17:32:36.573Z"
+}
